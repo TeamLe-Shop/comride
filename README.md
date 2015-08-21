@@ -1,9 +1,9 @@
-# ComrIDE
+# ☭ ComrIDE ☭
 
 ComrIDE™ (pronounced Com-ride), is the world's first next generation communist
 text editor.
 
-## Why a communist text editor?
+## ☭ Why a communist text editor? ☭
 
 Comrades, we have been oppressed, and some of us even labelled as "lower class
 GNU-plebs", and seeing the fruit of our hard labour being taken away by the
@@ -16,11 +16,11 @@ socioeconomic order.
 By using ComrIDE™, you are helping push the world towards a more equal and
 communist society.
 
-## Okay, cut the communist crap, what's it got for me?
+## ☭ Okay, cut the communist crap, what's it got for me? ☭
 
 How dare you dismiss communism as mere "crap"!
 
-## I'm sorry! But are there any cool features?
+## ☭ I'm sorry! But are there any cool features? ☭
 
 Yes of course! Using our new state-of-the-art next generation revolutionary
 Link™ technology, ComrIDE will have the ability to integrate with various
@@ -37,7 +37,7 @@ spirit, and that you all enjoy the fruit of your labour.
 
 In the wise words of Vladimir Lenin, "Communism Pasta Race".
 
-## What our comrades holla'd 'bout us?
+## ☭ What our comrades holla'd 'bout us? ☭
 
 "wow this is really good" - Vladimir Linsky
 "i feel like a communist already" - other people
