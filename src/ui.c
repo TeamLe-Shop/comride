@@ -15,7 +15,7 @@ struct UI {
 void ui_init()
 {
     // Initialise color pairs
-    init_pair(1, COLOR_WHITE, COLOR_BLUE);
+    init_pair(1, COLOR_YELLOW, COLOR_RED);
 
     // Clean Surface and elements
     int max_x, max_y;
