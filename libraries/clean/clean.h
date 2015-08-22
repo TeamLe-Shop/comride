@@ -3,6 +3,8 @@
 
 /* Clean Types */
 
+typedef int ColorPair;
+
 struct Surface;
 struct Element;
 
@@ -11,5 +13,6 @@ typedef struct Element Element;
 
 #include "surface.h"
 #include "element.h"
+#include "util.h"
 
 #endif /* CLEAN_H */

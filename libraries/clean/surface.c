@@ -25,7 +25,7 @@ void Surface_Destroy(Surface* surface)
     free(surface);
 }
 
-void Surface_AddElement(Surface* surface, Element* element)
+void Surface_AddElement(Surface* surface, void* element)
 {
     List_Append(surface->elements, element);
 }

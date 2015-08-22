@@ -1,5 +1,5 @@
-#ifndef ELEMENT_H
-#define ELEMENT_H
+#ifndef CLEAN_ELEMENT_H
+#define CLEAN_ELEMENT_H
 
 #define ELEMENT_BASE_MEMBERS \
     void (*draw)(void* self, Surface* surface, WINDOW* window); \

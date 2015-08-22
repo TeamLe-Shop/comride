@@ -8,12 +8,21 @@
 int main()
 {
     initscr();
+    start_color();
+    //noecho();
+    keypad(stdscr, TRUE);
+    ui_init();
 
-    Surface* s = Surface_New(80, 24);
-    Label* label = Label_New("Hello world!", 0, 0);
-    Surface_AddElement(s, label);
-    Surface_DrawToWindow(s, stdscr);
-    getch();
 
+    while (true) {
+        ui_draw();
+        int key = getch();
+        if (key == KEY_F(1)) {
+            break;
+        }
+        ui_pass_input(key);
+    }
+
+    ui_destroy();
     endwin();
 }

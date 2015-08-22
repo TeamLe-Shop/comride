@@ -1,5 +1,5 @@
-#ifndef SURFACE_H
-#define SURFACE_H
+#ifndef CLEAN_SURFACE_H
+#define CLEAN_SURFACE_H
 
 #include <curses.h>
 
@@ -22,7 +22,9 @@ Surface* Surface_New(size_t width, size_t height);
 void Surface_Destroy(Surface* surface);
 
 /* Adds an Element to the Surface. */
-void Surface_AddElement(Surface* surface, Element* element);
+void Surface_AddElement(Surface* surface, void* element);
 
+/* Draws all the elements to the specified window. */
+void Surface_DrawToWindow(Surface* surface, WINDOW* window);
 
 #endif /* SURFACE_H */

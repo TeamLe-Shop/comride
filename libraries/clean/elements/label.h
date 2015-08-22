@@ -1,5 +1,5 @@
-#ifndef LABEL_H
-#define LABEL_H
+#ifndef CLEAN_LABEL_H
+#define CLEAN_LABEL_H
 
 #include "../clean.h"
 
