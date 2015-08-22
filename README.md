@@ -3,6 +3,8 @@
 ComrIDE™ (pronounced Com-ride), is the world's first next generation communist
 text editor.
 
+![](screenshots/screen_1.png)
+
 ## ☭ Why a communist text editor? ☭
 
 Comrades, we have been oppressed, and some of us even labelled as "lower class
